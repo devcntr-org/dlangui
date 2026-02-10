@@ -31,3 +31,4 @@ dlangui-test-default
 *.exe
 *.pdb
 dlangui.lib
+**/lib/
