@@ -1,4 +1,4 @@
-= The Path to Fluid Resizing in DlangUI (Discovery & Context)
+= The Path to Fluid Resizing in DlangUI (Background & Context)
 :toc: macro
 :toc-title: Table of Contents
 

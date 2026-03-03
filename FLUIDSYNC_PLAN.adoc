@@ -2,7 +2,7 @@
 :toc: macro
 :toc-title: Table of Contents
 
-This document outlines the high-level technical requirements and architectural changes necessary within the `dlangui` framework to support high-fidelity, tear-free resizing using the `fluidsync-daemon`, as well as pushing rendering outside of the strict single-threaded paradigm. For the design history, reasoning, and context behind this plan, see `FLUIDSYNC_DISCOVERY.adoc`.
+This document outlines the high-level technical requirements and architectural changes necessary within the `dlangui` framework to support high-fidelity, tear-free resizing using the `fluidsync-daemon`, as well as pushing rendering outside of the strict single-threaded paradigm. For the design history, reasoning, and context behind this plan, see `FLUIDSYNC_BACKGROUND.adoc`.
 
 toc::[]
 
